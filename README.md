@@ -1,2 +1,2 @@
 # luaglobal.shop
-Internal CS2 Cheat (Spinbot, Aimbot, Skin Changer) and many more features
+Backend & frontend code for all CS2 cheats sold in Turkey.
